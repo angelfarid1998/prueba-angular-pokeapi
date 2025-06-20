@@ -1,7 +1,3 @@
-# PruebaAngular
-
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.3.
-
 # Prueba Técnica Angular - PokéAPI
 
 Este proyecto es una solución para una prueba técnica de Angular CLI version 20.0.3. La aplicación consume datos de la [PokéAPI](https://pokeapi.co/) y muestra una lista de Pokémon y sus detalles.
